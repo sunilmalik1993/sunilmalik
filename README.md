@@ -1,1 +1,1 @@
-# supritsingh.git.io
+# supritsingh.github.io
