@@ -15,4 +15,11 @@ weight = 60
 
 +++
 
-To be filled in soon. I am teaching Physics 231 and Physics 165 in the 2018 - 2019 academic year.
+“Scientific computing with Scilab” to University & College teachers
+in the Refresher Course in Physics conducted by Centre for Professional Development in Higher Education (CPDHE), UGC-HRDC, University of Delhi.
+
+“Scientific computing with C” to M.Sc. (Physics) Sem. III at Department of Physics and Astrophysics, University of Delhi from July to December. (Involved full-time teaching, setting up of examinations, and evaluation.)
+
+Tutor for the courses of “Quantum mechanics” and “General Relativity” for Prof. T. Padmanabhan at IUCAA.
+
+Tutor for Prof. T. Padmanabhan’s course of “General relativity” at IISER, Pune.

@@ -1,6 +1,6 @@
-baseurl = "https://fliptanedo.netlify.com/"
-title = "Flip Tanedo"
-copyright = "&copy; 2018 Philip (Flip) Tanedo"
+baseurl = "https://supritsingh.netlify.com/"
+title = "Suprit Singh"
+copyright = "&copy; 2018 Suprit Singh"
 theme = "academic"
 
 enableEmoji = true
@@ -29,19 +29,19 @@ enableGitInfo = false
   font = "flipfont"
 
   # Your details.
-  name = "Flip Tanedo"
-  role = "Assistant Professor"
-  organizations = [ { name = "UCR Particle Theory", url = "http://theory.ucr.edu" } ]
+  name = "Suprit Singh"
+  role = "Postdoctoral Reseacher"
+  organizations = [ { name = "UNB Gravity Group", url = "http://www.math.unb.ca/~gravity/index.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile/Flip600_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile/Suprit_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   # email = "flip@example.org"
-  email1 = "flip.tanedo" # using cryptedmail
-  email2 = "ucr" # using cryptedmail
-  email3 = "edu" # using cryptedmail
-  address = "3054 Physics Building, University of California, Riverside, CA 92521, USA"
-  office_hours = "Email for appointment"
-  phone = "x26168"
+  email1 = "suprit.singh" # using cryptedmail
+  email2 = "unb" # using cryptedmail
+  email3 = "ca" # using cryptedmail
+  address = "Department of Mathematics and Statistics, University of New Brunswick, Fredericton, E3B 5A3, Canada"
+  #office_hours = "Email for appointment"
+  #phone = "x26168"
   # skype = "echo123"
   # telegram = ""
 
@@ -56,8 +56,8 @@ enableGitInfo = false
   #   1: Google Maps
   map = 0
   map_api_key = ""
-  latitude = "33.9745"
-  longitude = "-117.3254"
+  latitude = "45.9636"
+  longitude = "-66.6431"
   zoom = 17
 
   date_format = "Jan 2, 2006"
@@ -78,12 +78,12 @@ enableGitInfo = false
   custom_js  = ['jquery-2.2.0.min.js', 'slick.js', 'flipslick.js']
 
   # FOOTER PARAMETERS
-  footmark = "layout/feynmanfooter.png"
-  stacklogo = "logo/UCR_PhysicsAndAstro_Logo_fordarkBG3.png"
+  footmark = "layout/loop.png"
+  stacklogo = "logo/unb_logo_white"
   legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
 
   # HEADER PARAMETERS
-  watermark = "background/Bundle3.jpg"
+  watermark = "background/bg.png"
 
 
   # Social/Academic Networking
@@ -107,55 +107,55 @@ enableGitInfo = false
 [[params.social]]
     icon = "inspire"
     icon_pack = "ai"
-    link = "http://inspirehep.net/author/profile/P.Tanedo.1"
+    link = "http://inspirehep.net/author/profile/Suprit.Singh.1"
     cv = true
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?hl=en&user=BQuJtTIAAAAJ&view_op=list_works&sortby=pubdate"
+    link = "https://scholar.google.ca/citations?user=IwDQdGkAAAAJ&hl=en&oi=ao"
     cv = true
 
-  [[params.social]]
+ [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
-    link = "http://orcid.org/0000-0003-4642-2199"
+    link = "http://orcid.org/0000-0002-7926-3174"
     cv = true
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/fliptanedo"
+    link = "//github.com/supritsingh"
     cv = true
 
   [[params.social]]
     icon = "arxiv"
     icon_pack = "ai"
-    link = "https://arxiv.org/find/hep-ph/1/au:+Tanedo_P/0/1/0/all/0/1"
+    link = "http://arxiv.org/a/singh_s_4"
     cv = true
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/FlipTanedo"
-    cv = false
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/FlipTanedo"
+  #  cv = false
 
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
-    link = "https://publons.com/author/637273/philip-tanedo#profile"
+    link = "https://publons.com/author/1550402/suprit-singh#profile"
     cv = true
 
-  [[params.social]]
-    icon = "slideshare"
-    icon_pack = "fa"
-    link = "https://www.slideshare.net/fliptanedo"
-    cv = false
+#  [[params.social]]
+#    icon = "slideshare"
+#    icon_pack = "fa"
+#    link = "https://www.slideshare.net/fliptanedo"
+#    cv = false
 
   [[params.social]]
     icon = "tree"
     icon_pack = "fa"
-    link = "https://academictree.org/physics/tree.php?pid=715850"
+    link = "https://academictree.org/physics/tree.php?pid=715896&pnodecount=5&cnodecount=2&fontsize=1"
     cv = false
 
 
