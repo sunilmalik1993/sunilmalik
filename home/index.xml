@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Suprit Singh</title>
+    <link>https://supritsingh.github.io/home/</link>
+    <description>Recent content in Homes on Suprit Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Suprit Singh</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://supritsingh.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://supritsingh.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://supritsingh.github.io/home/about/</guid>
+      <description>Much ado about processes whether Natural or Artificial.
+I am a Postdoctoral researcher in the gravity group at the University of New Brunswick, Fredericton. I am curious about the workings of the Universe from micro to macro scales. How it all began to the eventual fate of massive stars termed Black holes .
+It turns out you need to gravitate within the principles of quantum mechanics. How to achieve this is a big question?</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://supritsingh.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://supritsingh.github.io/home/cv/</guid>
+      <description>Suprit Singh is a Postdoctoral researcher in theoretical physics at University of New Brunswick, Fredericton. His research focuses on areas of quantum gravity including cosmological effects in inflation, Einstein&amp;rsquo;s blunder: Lambda, and black holes. He also holds interest in Machine learning algorithms and their applications.
+ Selected for Kaleidoscope in Physical Review D July 2017 SERB Overseas Postdoctoral Fellow, 2017 - 2018
+V. V. Narlikar Best Thesis Award, IAGRG, 2015</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://supritsingh.github.io/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://supritsingh.github.io/home/research/</guid>
+      <description>We are at a stage in fundamental physics where it is imperative to understand the amalgamation of the principles of quantum mechanics with gravitation. It is an ongoing endeavor to answer the questions such as,
+ What is the small scale structure of spacetime? How do the matter and gravity interact in the quantum picture? What leads to the emergence of “classical” reality? What are the predictions/effects in any model and how to test them?</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://supritsingh.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://supritsingh.github.io/home/teaching/</guid>
+      <description>Scientific computing with Scilab to University &amp;amp; College teachers in the Refresher Course in Physics conducted by Centre for Professional Development in Higher Education (CPDHE), UGC-HRDC, University of Delhi.
+Scientific computing with C to M.Sc. (Physics) Sem. III at Department of Physics and Astrophysics, University of Delhi from July to December. (Involved full-time teaching, setting up of examinations, and evaluation.)
+Tutor for the courses of Quantum mechanics and General Relativity for Prof.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://supritsingh.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://supritsingh.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

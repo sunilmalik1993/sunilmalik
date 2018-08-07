@@ -1,4 +1,4 @@
-baseurl = "https://supritsingh.github.io/"
+baseurl = "https://supritsingh.netlify.com/"
 title = "Suprit Singh"
 copyright = "&copy; 2018 Suprit Singh"
 theme = "academic"
@@ -25,17 +25,17 @@ enableGitInfo = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
-  color_theme = "suprittheme"
-  font = "supritfont"
+  color_theme = "fliptheme"
+  font = "flipfont"
 
   # Your details.
   name = "Suprit Singh"
-  role = "Postdoctoral Researcher"
+  role = "Postdoctoral Reseacher"
   organizations = [ { name = "UNB Gravity Group", url = "http://www.math.unb.ca/~gravity/index.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile/Suprit_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  #email = "suprit@example.org"
+  # email = "flip@example.org"
   email1 = "suprit.singh" # using cryptedmail
   email2 = "unb" # using cryptedmail
   email3 = "ca" # using cryptedmail
@@ -49,21 +49,11 @@ enableGitInfo = false
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
   logo = ""
 
-  # Enable/disable map in Contact widget.
-  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
-  # a map provider below.
   # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
   #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `map = 2`.
-  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-  #
   # Map provider:
   #   0: No map
   #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
   latitude = "45.9636"
@@ -84,19 +74,19 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ['ss2018layout.css','cryptedmail.css','ssnav.css','ss2018.css','ssaboutme.css', 'slick.css', 'slick-theme.css', 'ssslick.css']
-  custom_js  = ['jquery-2.2.0.min.js', 'slick.js', 'supritslick.js']
+  custom_css = ['flip2019layout.css', 'cryptedmail.css', 'flip2018.css', 'flipaboutme.css', 'flipnav.css', 'slick.css', 'slick-theme.css', 'flipslick.css']
+  custom_js  = ['jquery-2.2.0.min.js', 'slick.js', 'flipslick.js']
 
   # FOOTER PARAMETERS
-  footmark = "layout/comov.png"
-  stacklogo = "logo/unb_logo_white.png"
+  footmark = "layout/loop.png"
+  stacklogo = "logo/unb_logo_white"
   legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
 
   # HEADER PARAMETERS
   watermark = "background/bg.png"
 
 
-    # Social/Academic Networking
+  # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
   #
@@ -114,7 +104,7 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
+[[params.social]]
     icon = "inspire"
     icon_pack = "ai"
     link = "http://inspirehep.net/author/profile/Suprit.Singh.1"
@@ -144,17 +134,30 @@ enableGitInfo = false
     link = "http://arxiv.org/a/singh_s_4"
     cv = true
 
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/FlipTanedo"
+  #  cv = false
+
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
     link = "https://publons.com/author/1550402/suprit-singh#profile"
     cv = true
 
+#  [[params.social]]
+#    icon = "slideshare"
+#    icon_pack = "fa"
+#    link = "https://www.slideshare.net/fliptanedo"
+#    cv = false
+
   [[params.social]]
     icon = "tree"
     icon_pack = "fa"
     link = "https://academictree.org/physics/tree.php?pid=715896&pnodecount=5&cnodecount=2&fontsize=1"
     cv = false
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -164,36 +167,37 @@ enableGitInfo = false
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
-  [[menu.main]]
-    name = "Home"
-    url = "#about"
-    weight = 1
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
 
-  [[menu.main]]
-    name = "CV"
-    url = "#CV"
-    weight = 2
+[[menu.main]]
+  name = "CV"
+  url = "#CV"
+  weight = 2
 
-  [[menu.main]]
-    name = "Research"
-    url = "#research"
-    weight = 3
+[[menu.main]]
+  name = "Research"
+  url = "#research"
+  weight = 3
 
-  [[menu.main]]
-    name = "Teaching"
-    url = "#teaching"
-    weight = 6
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 6
 
-  [[menu.main]]
-    name = "Contact"
-    url = "#contact"
-    weight = 7
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
+
 
 
 # Configure the English version of the website.

@@ -1,16 +1,16 @@
 <footer class="site-footer">
-  <!-- SUPRIT's NEW STUFF BELOW -->
+  <!-- FLIP'S NEW STUFF BELOW -->
   <div id="botbar1"> </div>
   <div style="position: relative; width: 0; height: 0; z-index: 200;">
-    <div id="loopfoot" style="background-image:url('{{ .Site.BaseURL }}/img/{{ .Site.Params.footmark }}');"></div>
+    <div id="feynmanfoot" style="background-image:url('{{ .Site.BaseURL }}/img/{{ .Site.Params.footmark }}');"></div>
   </div>
   <div style="height: 20px">
     <!-- JUST A SPACER -->
   </div>
-  <!-- SUPRIT'S NEW STUFF ABOVE -->
+  <!-- FLIP'S NEW STUFF ABOVE -->
   <div class="container">
 
-<!-- SUPRIT NEW STUFF: Three columns -->
+<!-- FLIP NEW STUFF: Three columns -->
       <div class="row" id="footer-columns">
         <div class="col-sm-4" id="footer-col-1">
           <img src="{{ $.Site.BaseURL }}img/{{ $.Site.Params.stacklogo }}">
@@ -25,9 +25,31 @@
           <!-- <br/ > -->
           Adapted from <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic</a>.
           <!-- <br/ > -->
-          &copy Suprit Singh 2018
+          &copy Philip (Flip) Tanedo 2018
         </div>
       </div>
+
+<!-- OLD STUFF -->
+<!--
+    <p class="powered-by">
+
+      {{ with .Site.Copyright }}{{ . | markdownify}} &middot; {{ end }}
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+-->
+<!-- powered by -->
 
 
   </div> <!-- class container -->
@@ -57,4 +79,4 @@
   </div>
 </div>
 
-</div> <!--  ends id=#THECONTENT from navbar.html; -->
+</div> <!--  ends id=#THECONTENT from navbar.html; see flip2017.css -->

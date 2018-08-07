@@ -1,6 +1,7 @@
 +++
-# Research
-
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
 widget = "research"
 active = true
 date = 2016-04-20T00:00:00
@@ -12,45 +13,41 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 3
 
-researchblurb = " How does **gravity work in tandem with the principles of quantum mechanics** in cosmology and black holes? Can we have observe quantum effects in laboratories? For more details, please refer to my [papers on inSpire](http://inspirehep.net/author/profile/Suprit.Singh.1)."
+researchblurb = "What is **dark matter**? How does it fit into our understanding of particle physics? How do we search for it?"
+
 
 # Research Projects to Cycle
+[[research.projects]]
+  project = "composite mediator"
+  image = "research/compo.png"
+  caption = "Composite Higgs, Composite Mediator, *work in progress*"
 
 [[research.projects]]
-  project = "cosmological constant"
-  image = "research/cc.png"
-  caption = "Does quantum gravity relate the constants of nature? [1807.08704](http://arxiv.org/abs/1807.08704)"
+  project = "ipc"
+  image = "research/ipc.png"
+  caption = "Beryllium-8 anomaly: [1604.07411](https://arxiv.org/abs/1604.07411), [1608.03591](https://arxiv.org/abs/1608.03591)"
 
 [[research.projects]]
-   project = "Penrose inequality"
-   image = "research/piads.png"
-   caption = "Penrose inequality in Anti de Sitter space: [1709.02395](http://arxiv.org/abs/1709.02395)"
+  project = "gce"
+  image = "research/fermi.png"
+  caption = "Fermi GeV Excess: [1503.05919](https://arxiv.org/abs/1503.05919), [1612.05687](https://arxiv.org/abs/1612.05687), [1503.05919](https://arxiv.org/abs/1503.05919)"
 
 [[research.projects]]
-    project = "Multifacted Schwinger effect in de Sitter space"
-    image = "research/schwingerds.png"
-    caption = "Multifacted Schwinger effect in de Sitter space: [1704.05076](https://arxiv.org/abs/1704.05076)"
+  project = "icecube"
+  image = "research/ice.png"
+  caption = "Dark photons from the center of the Earth: [1509.07525](https://arxiv.org/abs/1509.07525)"
 
 [[research.projects]]
-   project = "Schwinger effect in AdS space"
-   image = "research/adstunnel.png"
-   caption = "Schwinger Effect in Hot AdS space: [1804.04140](https://arxiv.org/abs/1804.04140)"
+  project = "neutron"
+  image = "research/neutron.png"
+  caption = "Direct detection with neutron stars: [1707.0944](https://arxiv.org/abs/1707.09442)"
 
 [[research.projects]]
-   project = "From Quantum to Classical in the Sky"
-   image = "research/comov.png"
-   caption = "From Quantum to Classical in the Sky: [1607.02736](http://arxiv.org/abs/1607.02736), [1308.4976](http://arxiv.org/abs/1308.4976)"
+  project = "lfv"
+  image = "research/lfv.png"
+  caption = "Lepton-flavor violating mediators: [1610.08060](https://arxiv.org/abs/1610.08060)"
 
-[[research.projects]]
-    project = "Hawking Radiation"
-    image = "research/bh.png"
-    caption = "New Perspectives on Hawking Radiation: [1503.01774](http://arxiv.org/abs/arXiv:1503.01774),[1404.0684](http://arxiv.org/abs/arXiv:1404.0684), [1304.2858](http://arxiv.org/abs/arXiv:1304.2858)"
+
 +++
-We are at a stage in fundamental physics where it is imperative to understand the amalgamation of the principles of quantum mechanics with gravitation. It is an ongoing endeavor to answer the questions such as,
 
-* What is the small scale structure of spacetime?
-* How do the matter and gravity interact in the quantum picture?
-* What leads to the emergence of “classical” reality?
-* What are the predictions/effects in any model and how to test them?
-
-There are different approaches to answering these questions in quantum gravity and each comes with its own conundrums. The task is further made daunting by the lack of experimental insight in this field. However, with the tremendous advancement in the last two decades, particularly, in the realm of gathering experimental data and numerical computation, it is possible to get some answers for the above questions provided we “look” for them and their imprints.
+For more details, please refer to my [papers on inSpire](http://inspirehep.net/author/profile/P.Tanedo.1).
