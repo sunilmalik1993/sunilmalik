@@ -1,0 +1,205 @@
+baseurl = "https://supritsingh.netlify.com/"
+title = "Suprit Singh"
+copyright = "&copy; 2018 Suprit Singh"
+theme = "academic"
+
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 10
+disqusShortname = ""
+googleAnalytics = ""
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
+enableGitInfo = false
+
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+
+[params]
+  color_theme = "fliptheme"
+  font = "flipfont"
+
+  # Your details.
+  name = "Suprit Singh"
+  role = "Postdoctoral Reseacher"
+  organizations = [ { name = "UNB Gravity Group", url = "http://www.math.unb.ca/~gravity/index.html" } ]
+
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "profile/Suprit_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  # email = "flip@example.org"
+  email1 = "suprit.singh" # using cryptedmail
+  email2 = "unb" # using cryptedmail
+  email3 = "ca" # using cryptedmail
+  address = "Department of Mathematics and Statistics, University of New Brunswick, Fredericton, E3B 5A3, Canada"
+  #office_hours = "Email for appointment"
+  #phone = "x26168"
+  # skype = "echo123"
+  # telegram = ""
+
+  # Diplay a logo in navigation bar rather than title (optional).
+  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+  logo = ""
+
+  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  map = 0
+  map_api_key = ""
+  latitude = "45.9636"
+  longitude = "-66.6431"
+  zoom = 17
+
+  date_format = "Jan 2, 2006"
+  time_format = "3:04 PM"
+
+  reading_time = true
+  comment_count = true
+  section_pager = false
+  math = false
+  highlight = true
+  highlight_languages = []
+  sharing = true
+  privacy_pack = false
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = ['flip2019layout.css', 'cryptedmail.css', 'flip2018.css', 'flipaboutme.css', 'flipnav.css', 'slick.css', 'slick-theme.css', 'flipslick.css']
+  custom_js  = ['jquery-2.2.0.min.js', 'slick.js', 'flipslick.js']
+
+  # FOOTER PARAMETERS
+  footmark = "layout/loop.png"
+  stacklogo = "logo/unb_logo_white"
+  legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
+
+  # HEADER PARAMETERS
+  watermark = "background/bg.png"
+
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+[[params.social]]
+    icon = "inspire"
+    icon_pack = "ai"
+    link = "http://inspirehep.net/author/profile/Suprit.Singh.1"
+    cv = true
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.ca/citations?user=IwDQdGkAAAAJ&hl=en&oi=ao"
+    cv = true
+
+ [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0002-7926-3174"
+    cv = true
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/supritsingh"
+    cv = true
+
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "http://arxiv.org/a/singh_s_4"
+    cv = true
+
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/FlipTanedo"
+  #  cv = false
+
+  [[params.social]]
+    icon = "publons"
+    icon_pack = "ai"
+    link = "https://publons.com/author/1550402/suprit-singh#profile"
+    cv = true
+
+#  [[params.social]]
+#    icon = "slideshare"
+#    icon_pack = "fa"
+#    link = "https://www.slideshare.net/fliptanedo"
+#    cv = false
+
+  [[params.social]]
+    icon = "tree"
+    icon_pack = "fa"
+    link = "https://academictree.org/physics/tree.php?pid=715896&pnodecount=5&cnodecount=2&fontsize=1"
+    cv = false
+
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+[params.menus]
+  # Align the main menu to the right of the page? (true/false)
+  align_right = true
+
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "CV"
+  url = "#CV"
+  weight = 2
+
+[[menu.main]]
+  name = "Research"
+  url = "#research"
+  weight = 3
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 6
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 7
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+
+
+# Configure the English version of the website.
+[Languages.en]
+  languageCode = "en-us"

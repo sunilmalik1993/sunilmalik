@@ -11,15 +11,15 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 6
 
 +++
 
-“Scientific computing with Scilab” to University & College teachers
+**Scientific computing with Scilab** to University & College teachers
 in the Refresher Course in Physics conducted by Centre for Professional Development in Higher Education (CPDHE), UGC-HRDC, University of Delhi.
 
-“Scientific computing with C” to M.Sc. (Physics) Sem. III at Department of Physics and Astrophysics, University of Delhi from July to December. (Involved full-time teaching, setting up of examinations, and evaluation.)
+**Scientific computing with C** to M.Sc. (Physics) Sem. III at Department of Physics and Astrophysics, University of Delhi from July to December. (Involved full-time teaching, setting up of examinations, and evaluation.)
 
-Tutor for the courses of “Quantum mechanics” and “General Relativity” for Prof. T. Padmanabhan at IUCAA.
+Tutor for the courses of **Quantum mechanics** and **General Relativity** for Prof. T. Padmanabhan at IUCAA.
 
-Tutor for Prof. T. Padmanabhan’s course of “General relativity” at IISER, Pune.
+Tutor for Prof. T. Padmanabhan’s course of **General relativity** at IISER, Pune.

@@ -33,11 +33,10 @@ weight = 1
 
 +++
 
-# <span class="style-widget-title">Bio</span>
-s
-**I spend my time thinking about processes in the Machines -- Natural & Artificial.**
+**Much ado about _processes_ whether Natural or Artificial.**
 
+I am a Postdoctoral researcher in the gravity group at the University of New Brunswick, Fredericton. I am curious about the workings of the Universe from _micro to macro_ scales. How it all began to the eventual fate of massive stars termed *Black holes* .
 
-I am a Postdoctoral researcher in the gravity group at the University of New Brunswick, Fredericton. I am curious about the workings of the Universe from _micro to macro_ scales. Roughly, how it all began and the eventual fate of massive stars termed *Black holes* . It turns out you need *gravity* to act according to *quantum principles*. How to achieve this is the question?
+It turns out you need to *gravitate within the principles of quantum mechanics*. How to achieve this is a big question?
 
-I muse about the Artificial machines and learning algorithms as well. A benefit of this is that their impact is immediately tangible in the society.
+Besides this, I also muse about the Artificial Intelligence and Deep (machine) learning algorithms.
