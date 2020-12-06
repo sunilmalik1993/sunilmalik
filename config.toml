@@ -30,16 +30,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Suprit Singh"
-  role = "Postdoctoral Reseacher"
-  organizations = [ { name = "UNB Gravity Group", url = "http://www.math.unb.ca/~gravity/index.html" } ]
+  role = "Assistant Professor"
+  organizations = [ { name = "IIT Delhi", url = "https://physics.iitd.ac.in" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile/Suprit_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   # email = "flip@example.org"
-  email1 = "suprit.singh" # using cryptedmail
-  email2 = "unb" # using cryptedmail
-  email3 = "ca" # using cryptedmail
-  address = "Department of Mathematics and Statistics, University of New Brunswick, Fredericton, E3B 5A3, Canada"
+  email1 = "suprit" # using cryptedmail
+  email2 = "iitd" # using cryptedmail
+  email3 = "ac.in" # using cryptedmail
+  address = "Department of Physics, Indian Institute of Technology Delhi, New Delhi 110016"
   #office_hours = "Email for appointment"
   #phone = "x26168"
   # skype = "echo123"
@@ -79,7 +79,7 @@ enableGitInfo = false
 
   # FOOTER PARAMETERS
   footmark = "layout/loop.png"
-  stacklogo = "logo/unb_logo_white"
+  stacklogo = "logo/Indian_Institute_of_Technology_Delhi_logo.png"
   legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
 
   # HEADER PARAMETERS

@@ -65,7 +65,7 @@ group_logo = "logo/unb_logo_white.png"
 
 +++
 
-**Suprit Singh** is a Postdoctoral researcher in theoretical physics at the University of New Brunswick, Fredericton. His research focuses on areas of quantum gravity including cosmological effects in inflation, Einstein's blunder: Lambda, and black holes.
+**Suprit Singh** is an Assistant Professor of Physics at the Department of Physics, IIT Delhi. His research focuses on areas of quantum gravity including cosmological effects in inflation, Einstein's blunder: Lambda, and black holes.
 
 > Selected for Kaleidoscope in Physical Review D July 2017
 
