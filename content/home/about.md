@@ -38,6 +38,7 @@ s
 **I spend my time thinking about processes in the Machines -- Natural & Artificial.**
 
 
-I am a Postdoctoral researcher in the gravity group at the University of New Brunswick, Fredericton. I am curious about the workings of the Universe from _micro to macro_ scales. Roughly, how it all began and the eventual fate of massive stars termed *Black holes* . It turns out you need *gravity* to act according to *quantum principles*. How to achieve this is the question?
+I am an Assistant Professor in Gravitation and Astrophysics at the Department of Physics, IIT Delhi.
+Prior to this, I was a Postdoctoral researcher in the gravity group at the University of New Brunswick, Fredericton. I am curious about the workings of the Universe from _micro to macro_ scales. Roughly, how it all began and the eventual fate of massive stars termed *Black holes* . It turns out you need *gravity* to act according to *quantum principles*. How to achieve this is the question?
 
 I muse about the Artificial machines and learning algorithms as well. A benefit of this is that their impact is immediately tangible in the society.
