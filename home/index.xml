@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Suprit Singh</title>
-    <link>https://supritsingh.github.io/home/</link>
-    <description>Recent content in Homes on Suprit Singh</description>
+    <title>Homes on Sunil Malik</title>
+    <link>https://sunilmalik.github.io/home/</link>
+    <description>Recent content in Homes on Sunil Malik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Suprit Singh</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
-    
+    <copyright>&amp;copy; 2021 Sunil Malik</copyright>
+    <lastBuildDate>Wed, 5 Sept 2021 00:00:00 -0300</lastBuildDate>
+   
 	<atom:link href="https://supritsingh.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://supritsingh.github.io/home/about/</link>
+      <link>https://sunilmalik.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://supritsingh.github.io/home/about/</guid>
+      <guid>https://sunilmalik.github.io/home/about/</guid>
       <description>Much ado about processes whether Natural or Artificial.
-I am a Postdoctoral researcher in the gravity group at the University of New Brunswick, Fredericton. I am curious about the workings of the Universe from micro to macro scales. How it all began to the eventual fate of massive stars termed Black holes .
+I am a Postdoctoral researcher in the Plasma Astrophysics group at the University of Potsdam, Germany. I am curious about the workings of the Universe from micro to macro scales. How it all began to the eventual fate of massive stars termed Black holes .
 It turns out you need to gravitate within the principles of quantum mechanics. How to achieve this is a big question?</description>
     </item>
     
@@ -29,7 +29,7 @@ It turns out you need to gravitate within the principles of quantum mechanics. H
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://supritsingh.github.io/home/cv/</guid>
-      <description>Suprit Singh is a Postdoctoral researcher in theoretical physics at University of New Brunswick, Fredericton. His research focuses on areas of quantum gravity including cosmological effects in inflation, Einstein&amp;rsquo;s blunder: Lambda, and black holes. He also holds interest in Machine learning algorithms and their applications.
+      <description>Suprit Singh is a Postdoctoral researcher in Astrophysics at Institute of Phyiscs and Astronomy, University of Potsdam, Germany. His research focuses on exploring the mangetised Universe from observational aspects in galaxies and cluster of galaxies to its implications on the astrophysical processes i.e., Sunyaev-Zeldovich effect, Greenstein-Zeldovich effect, thermal and ionization evoliton of the Universe.
  Selected for Kaleidoscope in Physical Review D July 2017 SERB Overseas Postdoctoral Fellow, 2017 - 2018
 V. V. Narlikar Best Thesis Award, IAGRG, 2015</description>
     </item>
