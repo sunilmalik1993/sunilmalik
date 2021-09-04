@@ -1,3 +1,3 @@
-# Suprit's Website
+# Sunil's Website
 
-This is Suprit Singh's website. Currently hosted on [Netlify](http://supritsingh.netlify.com).
+This is Sunil Malik's website. Currently hosted on [Netlify](http://sunilmalik.netlify.com).
